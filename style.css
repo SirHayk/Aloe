@@ -7,7 +7,7 @@ html, body, .page {
   -webkit-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
   -moz-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
   -o-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);  
-  color: #fff;
+  color: #ff00ff;
   overflow: hidden; 
 }
 
@@ -27,7 +27,7 @@ html, body, .page {
   left: 200%;
 }
 
-#p1 { background: darkslateblue; }
+#p1 { background: #69008C; }
 #p2 { background: tomato; }
 #p3 { background: gold; }
 #p4 { background: deeppink; }
