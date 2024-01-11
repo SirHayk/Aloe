@@ -150,6 +150,11 @@ a {
   text-decoration: line-through;
 }
 
+.repro {
+  top: 70px;
+  left: 70px;
+}
+
 .page .icon {
   position: absolute;
   top: 0;
