@@ -126,6 +126,11 @@ a {
   font-size: 18px;
 }
 
+#p2 img {
+  display: block;
+  margin-top: 20px; /* Puedes ajustar el margen según tus necesidades */
+}
+
 .hint {
   font-size: 14px;
 }
