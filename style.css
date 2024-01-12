@@ -186,6 +186,10 @@ repro {
   height: 220px;
 }
 
+.page#p1 .icon {
+  transform: translateX(10%) !important;
+}
+
 #t3:target .page#p3 .icon,
 #t4:target .page#p4 .icon,
 #t5:target .page#p5 .icon {
