@@ -64,9 +64,9 @@ html, body, .page {
   display: block;
 }
 
-ul .icon:hover {
+/* ul .icon:hover {
   opacity: 0.5;
-}
+} */
 
 .page .icon .title {
   line-height: 2;
