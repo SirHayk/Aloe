@@ -64,9 +64,17 @@ html, body, .page {
   display: block;
 }
 
-/* ul .icon:hover {
+.no-icon .title {
+  font-size: 24px; /* Puedes ajustar según tus necesidades */
+}
+
+.no-icon .hint {
+  font-size: 16px; /* Puedes ajustar según tus necesidades */
+}
+
+ul .icon:hover {
   opacity: 0.5;
-} */
+}
 
 .page .icon .title {
   line-height: 2;
