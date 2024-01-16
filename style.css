@@ -141,14 +141,14 @@ a {
 }
 
 .custom-icon {
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   display: block;
   text-align: center;
   line-height: 70px; /* Centrar verticalmente la imagen */
   border-radius: 50%; /* Ajuste para hacer un círculo */
-  margin: 30px 0; /* Ajuste de margen similar a otros iconos */
-  padding-left: 45px;
+  margin: 40px 0; /* Ajuste de margen similar a otros iconos */
+  padding-left: 55px;
 }
 
 .custom-icon:hover {
